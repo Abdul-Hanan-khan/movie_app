@@ -10,6 +10,7 @@ class UpComingMovieController extends GetxController{
     // TODO: implement onInit
     isLoading.value=true;
     upCommingMovies.value=await ApiService.upcomingMovies();
+
     isLoading.value=false;
     super.onInit();
   }
