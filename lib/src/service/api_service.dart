@@ -2,9 +2,9 @@ import 'dart:convert';
 
 import 'package:dio/dio.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:movie_db_app/src/model/models/movie_details_model.dart';
-import 'package:movie_db_app/src/model/models/screenshot_model.dart';
-import 'package:movie_db_app/src/model/models/upcoming_movies.dart';
+import 'package:movie_db_app/src/model/movie_details_model.dart';
+import 'package:movie_db_app/src/model/screenshot_model.dart';
+import 'package:movie_db_app/src/model/upcoming_movies.dart';
 import 'package:http/http.dart' as http;
 class ApiService {
 

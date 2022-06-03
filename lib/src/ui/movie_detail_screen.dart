@@ -7,7 +7,7 @@ import 'package:flutter/rendering.dart';
 import 'package:get/get.dart';
 import 'package:movie_db_app/src/controller/movie_details_controller.dart';
 import 'package:movie_db_app/src/controller/screenshot_controller.dart';
-import 'package:movie_db_app/src/model/models/screenshot_model.dart';
+import 'package:movie_db_app/src/model/screenshot_model.dart';
 import 'package:movie_db_app/src/ui/video_player_screen.dart';
 
 class MovieDetailScreen extends StatelessWidget {

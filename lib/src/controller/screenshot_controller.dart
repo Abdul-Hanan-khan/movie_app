@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:movie_db_app/src/model/models/screenshot_model.dart';
+import 'package:movie_db_app/src/model/screenshot_model.dart';
 import 'package:movie_db_app/src/service/api_service.dart';
 class ScreenShotController extends GetxController{
   RxBool isLoading=false.obs;

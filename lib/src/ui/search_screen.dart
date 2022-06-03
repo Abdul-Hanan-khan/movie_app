@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:movie_db_app/src/controller/movie_details_controller.dart';
 import 'package:movie_db_app/src/controller/search_controller.dart';
-import 'package:movie_db_app/src/model/models/upcoming_movies.dart';
+import 'package:movie_db_app/src/model/upcoming_movies.dart';
 import 'package:movie_db_app/src/ui/movie_detail_screen.dart';
 
 
